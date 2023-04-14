@@ -4,7 +4,7 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 <br>
 <br>
 
-## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/crypto-landing-page/">**Visit Now** 🚀</a>
+## 📌 **Live Site URL:** <a href="https://chirag-solanki6804.github.io/real-estate-full-page-website/">**Visit Now** 🚀</a>
 
 <br>
 
