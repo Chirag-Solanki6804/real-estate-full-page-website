@@ -15,12 +15,6 @@ This is a assignment given in "Full Stack web development" course by PWSKILLS, b
 <br>
 <br>
 
-## 📌 Overview
-
-<br>
-
-![Alt Image text](/Photos/output.png?raw=true "Optional Title")
-
 
 ## 📬 Connect With Me
 
